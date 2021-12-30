@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/web_character_dheeraj.gif" width="400px" />
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
-#### I'm Prince Fahad, Student at 👨‍💻 JNVU pursuing BCA.  I am tech enthusiast who loves building Android Applications and currently focusing on Data Structures and Algorithms.  
+#### I'm Prince Fahad, Student at 👨‍💻 JNVU pursuing BCA.  I am an Android enthusiast who loves building Mobile Applications and currently focusing on Data Structures and Algorithms.  
 
 ## 🧐 About
 - 🏄‍ Android Developer who loves building amazing Applications.
