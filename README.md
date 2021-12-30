@@ -32,7 +32,7 @@
 
 ## 💬 Connect with me:
 <p align="center">
-<a align="center" href="https://linkedin.com/in/princefahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princefahad" height="30" width="40" /></a>
+<a align="center" href="https://linkedin.com/in/princefahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princefahad" height="10" width="20" /></a>
 </p>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=devprincefahad&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=devprincefahad&&hide_border=false&&show_icons=true"/>|
