@@ -14,7 +14,7 @@
 - 👨‍💻 I have done one internship in Android.
 - 🤔 Looking some help with data structures and algorithms.
 - 🌱 I love to learn new things and ready to help others.
-- 💻 All of my projects are available [here](https://github.com/devprincefahad).
+- 💻 All of my projects are available [here](https://github.com/devprincefahad?tab=repositories).
 - ⚡ In my free time, you'll find me reading self help books
 - 📫 How to reach me: mail me at [1pfchouhan@gmail.com](mailto:1pfchouhan@gmail.com)
 - 🧙‍♂️ Currently working on Advance Android skills.
