@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/devprincefahad-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/princefahad/)
 [![Gmail Badge](https://img.shields.io/badge/1pfchouhan@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:1pfchouhan@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=devprincefahad.devprincefahad) 
+![](https://visitor-badge.glitch.me/badge?page_id=devprincefahad) 
 
 <img align="right" alt="GIF" src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/web_character_dheeraj.gif" width="400px" />
 
