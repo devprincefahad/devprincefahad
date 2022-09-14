@@ -40,7 +40,7 @@
 
 ## 💬 Connect with me:
 <p align="center">
-<a align="center" href="https://linkedin.com/in/princefahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princefahad" height="30" width="40" /></a>
+<a align="center" href="https://linkedin.com/in/princefahad" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="princefahad" height="30" width="40" /></a>
 </p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devprincefahad&show_icons=true&locale=en&layout=compact" alt="devprincefahad" />
