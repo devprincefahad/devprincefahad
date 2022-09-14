@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Prince Fahad</h1> -->
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/94643962/147745763-4624fe1f-5ae5-4475-bbbc-e252678884f4.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/princefahad/">Prince Fahad</a>👨‍💻</h1>
 
-<h3 align="center">A passionate Android developer from India currently pursuing my bachelors degree.</h3>
+<p align="center"> <h3 align="center">A passionate Android developer from India currently pursuing my bachelors degree.</h3> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/devprincefahad-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/princefahad/)
 [![Gmail Badge](https://img.shields.io/badge/1pfchouhan@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:1pfchouhan@gmail.com)
@@ -10,13 +10,13 @@
 <img align="right" alt="GIF" src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/web_character_dheeraj.gif" width="400px" />
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
-#### I'm Prince Fahad, Student at 👨‍💻 JNVU pursuing BCA.  I am an Android enthusiast who loves building Mobile Applications and currently focusing on Data Structures and Algorithms.  
+#### I'm Prince Fahad, Student at 👨‍💻 Bikaner Technical University(BTU) pursuing MCA.  I am an Android enthusiast who loves building Mobile Applications and currently focusing on Data Structures and Algorithms.  
 
 ## 🧐 About
 - 🏄‍ Android Developer who loves building amazing Applications.
 - 👨‍💻 I have done one internship in Android.
 - 🤪 Learning data structures and algorithms.
-- 🌱 I love to learn new things and ready to help others.
+- 🌱 I like to learn new things and ready to help others.
 - 💻 All of my projects are available [here](https://github.com/devprincefahad?tab=repositories).
 - ⚡ In my free time, you'll find me reading self help books
 - 📫 How to reach me: mail me at [1pfchouhan@gmail.com](mailto:1pfchouhan@gmail.com)
