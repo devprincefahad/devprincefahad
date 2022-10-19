@@ -41,7 +41,6 @@
 ## 💬 Connect with me:
 <p align="center">
 <a align="center" href="https://linkedin.com/in/princefahad" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="princefahad" height="30" width="40" /></a>
-<a align="center" href="mailto: 1pfchouhan@gmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303161%2Fgmail-icon-logo&psig=AOvVaw0koNfZvViMJR2Y8AXLlOay&ust=1666307037784000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJD--Mmz7foCFQAAAAAdAAAAABAE" alt="princefahad" height="30" width="40" /></a>
 </p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devprincefahad&show_icons=true&locale=en&layout=compact" alt="devprincefahad" />
