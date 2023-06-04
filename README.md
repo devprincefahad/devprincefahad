@@ -15,7 +15,7 @@
 
 ## 🧐 About
 - 🏄‍ Android Developer who loves building amazing Applications.
-- 👨‍💻 I have done one internship in Android.
+- 👨‍💻 I have done 2 internships in Android.
 - 🤪 Learning data structures and algorithms.
 - 🌱 I like to learn new things and ready to help others.
 - 💻 All of my projects are available [here](https://github.com/devprincefahad?tab=repositories).
