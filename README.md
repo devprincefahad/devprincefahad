@@ -31,15 +31,11 @@
 ## ⚙ Languages and Tools:
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/android-icon-logo-DB06FA8B39-seeklogo.com.png" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=devprincefahad&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=devprincefahad&&hide_border=false&&show_icons=true"/>|
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devprincefahad&show_icons=true&theme=radical&locale=en&layout=compact" alt="devprincefahad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devprincefahad&theme=dark" alt="devprincefahad" /></p>
-|---|---|
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devprincefahad&show_icons=true&theme=dark&locale=en" alt="devprincefahad" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devprincefahad&layout=compact"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devprincefahad&theme=dark" alt="devprincefahad" /></p>
 
 ## 💬 Connect with me:
 <p align="center">
