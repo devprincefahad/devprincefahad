@@ -38,8 +38,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devprincefahad&theme=dark" alt="devprincefahad" /></p>
 
 ## 💬 Connect with me:
-<p align="center">
-<a align="center" href="https://linkedin.com/in/princefahad" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="princefahad" height="30" width="40" /></a>
+<h2 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/princefahad" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="in/princefahad"/></a>
 </p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devprincefahad&show_icons=true&locale=en&layout=compact" alt="devprincefahad" />
