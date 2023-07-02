@@ -34,7 +34,8 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=devprincefahad&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=devprincefahad&&hide_border=false&&show_icons=true"/>|
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devprincefahad&show_icons=true&theme=radical&locale=en&layout=compact" alt="devprincefahad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devprincefahad&show_icons=true&theme=dark&locale=en" alt="devprincefahad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devprincefahad&theme=dark" alt="devprincefahad" /></p>
+|---|---|
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devprincefahad&layout=compact"/>
