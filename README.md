@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
+## Random Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devprincefahad&show_icons=true&theme=radical&locale=en&layout=compact" alt="devprincefahad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devprincefahad&show_icons=true&theme=dark&locale=en" alt="devprincefahad" /></p>
